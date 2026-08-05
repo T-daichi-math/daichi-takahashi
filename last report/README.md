@@ -4,7 +4,7 @@
 コードの実行手順：<br>
 動作環境　(必要な言語)pythonの最近のバージョンであればどれでも動きます(OS)windows,macOS,Linux(WSLを含む)OSであればどれでも動作可能です<br>
 ファイルの準備<br>　
-GitHubから手元のPCにリポジトリを複製します<br>
+GitHubから手元のPCにリポジトリを複製します
 
 git clone https://github.com/T-daichi-math/daichi-takahashi.git
 
