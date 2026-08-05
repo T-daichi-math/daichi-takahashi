@@ -13,19 +13,19 @@ cd daichi-takahashi
 cd "last report"
 
 仮想環境の構築<br>
-①仮想環境を作成する
+①仮想環境を作成する<br>
 python3 -m venv venv
 
-②仮想環境を有効化する
-macOS,Linux(WSL)の場合
+②仮想環境を有効化する<br>
+macOS,Linux(WSL)の場合<br>
 source venv/bin/activate
-windowsの場合
+windowsの場合<br>
 .\venv\Scripts\activate
 
-③必要なライブラリをインストールする
+③必要なライブラリをインストールする<br>
 pip install numpy matplotlib
 
-実行手順
+実行手順<br>
 python own_inf.py
 
 実行すると3つのグラフが表示されます。実行するとまずは1つ目のグラフが出力されます。そのウィンドウを閉じると2つ目のグラフが出力されます。2つ目のウィンドウを閉じると最後3つ目のグラフが出力されます。
